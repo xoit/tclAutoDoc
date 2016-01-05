@@ -2,6 +2,8 @@
 An auto document system to generate manual, presentation and etc from the code itself.
 Use Tcl as programming lanuage to well support IC industry.
 
+![One sample style](./media/sample.png)
+
 ## How to Use
 Load the sh to define some environment variable and create some alias commands to your shell.
 
